@@ -58,6 +58,10 @@ The second line consists of m2 space-separated values that indicate the neighbou
 -1
 ****************************************************************************************************************************************************
 
+##Earliest Arrival Time Algorithm Query format
+
+We run state-of-the-art and proposed algorithms on 100 generated random queries, each consisting of two values: a source vertex and a ready time. The source vertices are randomly selected from $0$ to $n$, where $n$ denotes the number of vertices in the underlying graph, and the corresponding ready times are chosen randomly within the range of 0 to 100. We then use these generated queries to run all three algorithms on nine public transportation data sets, measuring the average query running time in milliseconds.
+
 
 Contact
 If you have any questions, contact us by sending an email to srikanth.mithinti@gmail.com or rama@iittp.ac.in
