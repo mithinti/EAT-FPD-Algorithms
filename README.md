@@ -7,6 +7,7 @@ Technical Specifications: The experimentation is conducted on a machine equipped
 Datasets Preprocessing
 
 For our implementations, we present the constraints and input format for the input graph:
+
 Constraints:
 
     The graph is directed, and the vertices are labelled from 0 to n-1, where n is the total number of vertices.
@@ -20,6 +21,7 @@ The following m lines consist of four positive integers separated by spaces: u, 
 Note: These connections are sorted in increasing order of departure time t-value
 ****************************************************************************************************************************************************
 ****************************************************************************************************************************************************
+```plaintext
 6 11
 0 1 0 1
 0 1 2 1
@@ -45,6 +47,7 @@ The second line consists of m1 space-separated values, indicating the offset arr
 The second line consists of m2 space-separated values that indicate the neighbours of the nodes in the ESDG graph G'.
 ****************************************************************************************************************************************************
 ****************************************************************************************************************************************************
+```plaintext
 11 13 6
 0 2 4 6 8 9 10 10 10 11 12 
 2 4 2 5 7 10 7 10 6 6 6 6 6 
