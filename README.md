@@ -34,6 +34,7 @@ Note: These connections are sorted in increasing order of departure time t-value
 3 2 10 5
 3 4 10 10
 2 5 20 25
+```plaintext
 ****************************************************************************************************************************************************
    
 ESDG Input Format:
