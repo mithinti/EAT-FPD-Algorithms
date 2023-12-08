@@ -47,7 +47,6 @@ The second line consists of m1 space-separated values, indicating the offset arr
 The second line consists of m2 space-separated values that indicate the neighbours of the nodes in the ESDG graph G'.
 ****************************************************************************************************************************************************
 ****************************************************************************************************************************************************
-```plaintext
 11 13 6
 0 2 4 6 8 9 10 10 10 11 12 
 2 4 2 5 7 10 7 10 6 6 6 6 6 
